@@ -6,5 +6,8 @@
 ### node server.js
 
 
-##### 以下是效果图
+##### 以下是Example01的效果图
 ![](https://raw.githubusercontent.com/shenxiaofa/WebGLDemo/master/image/Example01.png)
+
+##### 以下是Example02的效果图
+![](https://raw.githubusercontent.com/shenxiaofa/WebGLDemo/master/Example02/image/Example02.png)
